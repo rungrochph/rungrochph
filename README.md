@@ -14,9 +14,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rungrochph&theme=dark&background=000000)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=rungrochph
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rungrochph&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
