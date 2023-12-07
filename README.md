@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 </div>
 https://github-readme-streak-stats.herokuapp.com/?user=rungrochph
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rungrochph&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rungrochph&theme=dark&background=000000)](https://git.io/streak-stats)]
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rungrochph)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rungrochph)](https://github.com/rungroch/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
