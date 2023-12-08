@@ -17,6 +17,6 @@
 
 - 🤔 I’m just passed the military draft.
 - 🌱 I’m currently learning  Golang JS.
-- 👯 I’m looking for fulstack frontend backend.
+- 👯 I’m looking for fullstack frontend backend.
 
 
